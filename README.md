@@ -1,2 +1,2 @@
-# Adventure_Game
+# Adventure-Game
 This is CLI based Adventure Game.
